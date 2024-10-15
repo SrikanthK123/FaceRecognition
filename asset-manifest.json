@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/FaceRecognition/static/css/main.dd435797.css",
-    "main.js": "/FaceRecognition/static/js/main.759ec34a.js",
+    "main.css": "/FaceRecognition/static/css/main.97014910.css",
+    "main.js": "/FaceRecognition/static/js/main.8a7f4e7d.js",
     "static/js/511.3acc5756.chunk.js": "/FaceRecognition/static/js/511.3acc5756.chunk.js",
+    "static/media/MicSad.gif": "/FaceRecognition/static/media/MicSad.4178ed167a4ac708f888.gif",
+    "static/media/MicDance.gif": "/FaceRecognition/static/media/MicDance.78e8bc535646e44cc4bc.gif",
+    "static/media/MicRun.gif": "/FaceRecognition/static/media/MicRun.4f095cc2832956e9dba6.gif",
     "index.html": "/FaceRecognition/index.html",
-    "main.dd435797.css.map": "/FaceRecognition/static/css/main.dd435797.css.map",
-    "main.759ec34a.js.map": "/FaceRecognition/static/js/main.759ec34a.js.map",
+    "main.97014910.css.map": "/FaceRecognition/static/css/main.97014910.css.map",
+    "main.8a7f4e7d.js.map": "/FaceRecognition/static/js/main.8a7f4e7d.js.map",
     "511.3acc5756.chunk.js.map": "/FaceRecognition/static/js/511.3acc5756.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd435797.css",
-    "static/js/main.759ec34a.js"
+    "static/css/main.97014910.css",
+    "static/js/main.8a7f4e7d.js"
   ]
 }
